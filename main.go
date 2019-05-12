@@ -6,10 +6,10 @@ import (
 	"log"
 )
 
-type Person struct {
-	Name string
-	Age int32
-}
+//type Person struct {
+//	Name string
+//	Age int32
+//}
 
 func main() {
 	elliot := &Person {
